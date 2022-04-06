@@ -1,6 +1,6 @@
 # prog_bilgi
 
-A new Flutter project.
+A new Flutter projecttttt.
 
 ## Getting Started
 
