@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-import 'package:prog_bilgi/cobolOzet.dart';
-import 'package:prog_bilgi/javascriptOzet.dart';
-import 'package:prog_bilgi/cdiliOzet.dart';
-import 'package:prog_bilgi/kotlinOzet.dart';
-import 'package:prog_bilgi/javaOzet.dart';
-import 'package:prog_bilgi/flutterOzet.dart';
-import 'package:prog_bilgi/csharpOzet.dart';
-import 'package:prog_bilgi/pythonOzet.dart';
-import 'package:prog_bilgi/cppOzet.dart';
+import '../detail/cdili.dart';
+import '../detail/cobolOzet.dart';
+import '../detail/cppOzet.dart';
+import '../detail/csharpOzet.dart';
+import '../detail/flutterOzet.dart';
+import '../detail/javaOzet.dart';
+import '../detail/javascriptOzet.dart';
+import '../detail/kotlinOzet.dart';
+import '../detail/pythonOzet.dart';
 
 /*
 void main() {

@@ -1,8 +1,10 @@
 import 'package:prog_bilgi/Animation/FadeAnimation.dart';
-import 'package:prog_bilgi/anasayfa.dart';
+
 import 'package:prog_bilgi/service/auth_service.dart';
 import 'package:prog_bilgi/pages/register.dart';
 import 'package:flutter/material.dart';
+
+import '../screen/home/home_screen.dart';
 
 class LoginPage extends StatefulWidget {
   @override

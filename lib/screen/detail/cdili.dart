@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:prog_bilgi/anasayfa.dart';
+
+import '../home/home_screen.dart';
+
 
 class cdiliOzet extends StatefulWidget {
   @override
